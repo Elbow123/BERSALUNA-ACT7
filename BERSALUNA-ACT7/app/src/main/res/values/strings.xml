@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CIVIC EVOLUTION</string>
+    <string name="honda_1">FIRST GEN</string>
+    <string name="honda_2">SECOND GEN</string>
+    <string name="honda_3">THIRD GEN</string>
+    <string name="honda_4">FOURTH GEN</string>
+    <string name="honda_5">FIFTH GEN</string>
+    <string name="honda_6">SIXTH GEN</string>
+    <string name="honda_7">SEVENTH GEN</string>
+    <string name="honda_8">EIGHT GEN</string>
+    <string name="honda_9">NINTH GEN</string>
+    <string name="H_description_1">1972 - 1979</string>
+    <string name="H_description_2">1979 - 1983</string>
+    <string name="H_description_3">1983 - 1987</string>
+    <string name="H_description_4">1987 - 1991</string>
+    <string name="H_description_5">1992 - 1995</string>
+    <string name="H_description_6">1996 - 2000</string>
+    <string name="H_description_7">2001 - 2005</string>
+    <string name="H_description_8">2006 - 2011</string>
+    <string name="H_description_9">2012 - 2015</string>
+    <string name="about">About:</string>
+    <string name="expand_button_content_description">See more or less information about a Honda Cars.</string>
+</resources>
